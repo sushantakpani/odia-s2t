@@ -28,7 +28,9 @@ Odia Speech Data:
 
 Mozilla Common voice (multi speaker) 
 Download https://commonvoice.mozilla.org/or/datasets
+
 Donate Voice : https://commonvoice.mozilla.org/or/speak
+
 Validate recorded data: https://commonvoice.mozilla.org/or/listen
 
 
