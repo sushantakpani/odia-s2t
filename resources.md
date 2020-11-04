@@ -21,6 +21,16 @@ https://nixingaround.blogspot.com/2016/07/installing-kaldi-and-kaldi-gstreamer.h
 Kaldi Gstremer plugin
 https://github.com/alumae/kaldi-gstreamer-server
 
+**2. Mozilla DeepSpeech** 
+
+DeepSpeech is an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. Project DeepSpeech uses Google's TensorFlow to make the implementation easier.
+
+Documentation for installation, usage, and training models are available on 
+https://deepspeech.readthedocs.io/en/v0.9.1/?badge=latest
+
+Code Repository
+https://github.com/mozilla/DeepSpeech
+
 
 -----------------------------------------------------------------------------------------------------
 
