@@ -24,9 +24,9 @@ https://github.com/alumae/kaldi-gstreamer-server
 
 -----------------------------------------------------------------------------------------------------
 
-Odia Speech Data:
+**Odia Speech Data:**
 
-Mozilla Common voice (multi speaker) 
+**Mozilla Common voice (multi speaker)** 
 Download https://commonvoice.mozilla.org/or/datasets
 
 Donate Voice : https://commonvoice.mozilla.org/or/speak
@@ -34,8 +34,11 @@ Donate Voice : https://commonvoice.mozilla.org/or/speak
 Validate recorded data: https://commonvoice.mozilla.org/or/listen
 
 
+**TDIL TTS data**
 
 Sign up and download mono speaker male/female  https://www.iitm.ac.in/donlab/tts/database.php
+
+(A special corpus of Indian languages covering 13 major languages of India. It comprises of 10000+ spoken sentences/uttererances each of mono and english recorded by both Male and Female native speakers. Speech waveform files are available in .wav format along with the corresponding text.
 
 -----------------------------------------------------------------------------------------------------
 
